@@ -1,0 +1,57 @@
+p{
+    font-family: Roboto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.video-title{
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-size: 30px;
+    font-style: italic;
+    text-align: center; */
+    font-weight: bold;
+    font-size:20px;
+    width: 280px;
+    line-height: 26px;
+    margin-bottom: 5px ;
+    line-height: 24px;
+}
+.video-stats{
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 14px;
+    color:#606060;
+    /* margin-top: 0px; */
+    margin-bottom: 20px;
+}
+.video-author{
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 14px;
+    color:#606060;
+    /* margin-top: 0px; */
+    margin-bottom: 20px;
+    width: 280px;
+}
+.video-description{
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 14px;
+    color:#606060;
+    /* margin-top: 0px;v b   */
+    width: 280px;
+    line-height: 24px;
+    margin-bottom: 100px;
+}
+.apple-text{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: #e34140;
+    color: white;
+    text-align: center;
+    padding: 18px 10px;
+}
+.shop-link{
+    color: white;
+    margin-left: 12px;
+}
+.shop-link:hover{
+    text-decoration: underline ;
+    cursor: pointer;
+}
